@@ -1,0 +1,1 @@
+print("Training Image model using TensorFlow...")
