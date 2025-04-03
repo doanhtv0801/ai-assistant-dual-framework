@@ -1,7 +1,5 @@
-# 🧠 AI Assistant (Dual Framework Project)
+# AI Assistant - Full Source Project
 
-A practical AI assistant project combining both **PyTorch** and **TensorFlow** to showcase multi-framework expertise for AI Engineer roles.
+This is a complete Python AI project combining PyTorch (NLP), TensorFlow (image), FastAPI, and Docker.
 
-...
-
-## ⭐️ Star this repo if you find it useful!
+See canvas for detailed usage.
